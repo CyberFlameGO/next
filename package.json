@@ -23,7 +23,7 @@
     "i18next": "^19.8.4",
     "i18next-browser-languagedetector": "^6.0.1",
     "i18next-http-backend": "^1.0.22",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "next": "^12.0.10",
     "next-i18next": "^9.2.0",
     "next-seo": "^4.26.0",
